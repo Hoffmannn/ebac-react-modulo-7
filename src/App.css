@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  padding: 1rem;
+}
+ 
+.Form {
+  display: flex;
+  flex-direction: column;
+}
+ 
+.submitButton {
+  padding: 5px 20px;
+  margin-top: 10px;
+}
+ 
